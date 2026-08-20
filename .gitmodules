@@ -1,3 +1,6 @@
 [submodule "libraries/lv"]
 	path = libraries/lv
 	url = git@github.com:chihebabid/lv.git
+[submodule "libraries/lvgl"]
+	path = libraries/lvgl
+	url = https://github.com/lvgl/lvgl.git
