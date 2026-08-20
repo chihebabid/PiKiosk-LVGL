@@ -21,4 +21,4 @@ target_link_options(kiosk-app PRIVATE
 
 #target_link_libraries(kiosk-app PRIVATE atomic pitools ${GPIOD_LIBRARY})
 
-#target_link_libraries(kiosk-app PUBLIC ${GPIOD_LIBRARY})
+target_link_libraries(kiosk-app PUBLIC lv::lv)
