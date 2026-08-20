@@ -1,0 +1,3 @@
+[submodule "libraries/lv"]
+	path = libraries/lv
+	url = git@github.com:chihebabid/lv.git
